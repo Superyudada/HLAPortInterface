@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  HLAPortInterface.cpp
+  SimuFederateAgent.cpp
+  正在生成代码...
+    正在创建库 D:\WorkSpace\Simu\HLAPortInterface\x64\Debug\HLAPortInterface.lib 和对象 D:\WorkSpace\Simu\HLAPortInterface\x64\Debug\HLAPortInterface.exp
+  HLAPortInterface.vcxproj -> D:\WorkSpace\Simu\HLAPortInterface\x64\Debug\HLAPortInterface.dll
